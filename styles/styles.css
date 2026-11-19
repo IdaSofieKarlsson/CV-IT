@@ -1,3 +1,41 @@
-body {
-    background-color: aqua;
+/* General styles 
+fonts:  font-family: "Agrave Pro"       span
+        font-family: "Fira Sans"        h1, h2, h3, h4, h5, h6
+        font-family: "Montserrat"       p, li, a
+
+Colors
+Role	        Name	        Hex	        Use
+Tone 1 (dark)	Deep slate	    #1F3A4D	    Name, headings, body text
+Tone 2 (mid)	Dusty blue	    #4F6F80	    Subheadings, dates, bullets, secondary text
+Tone 3 (light)	Mist	        #D3DEE4	    Divider lines, sidebar tint, borders
+Contrast	    Burnt copper	#A8561A	    Links, hover states, one small detail like a heading underline
+Base	        White	        #FFFFFF	    Page background
+*/
+
+/*all fonts, same everywhere*/
+span {
+    font-family: "Agrave Pro", sans-serif;
+    font-weight: 400;
+    font-style: cursive;
+    font-size: 24px;
+    color: #A8561A
 }
+h1, h2, h3, h4, h5, h6 {    
+    font-family: "Fira Sans", sans-serif;
+    color: #1F3A4D;
+}
+p, li {
+    font-family: "Montserrat", sans-serif;
+    color: #1F3A4D;
+}
+a, a:hover, a:active, a:visited, a:focus {
+    font-family: "Montserrat", sans-serif;
+    color: #A8561A;
+    text-decoration: none;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+
