@@ -34,8 +34,30 @@ a, a:hover, a:active, a:visited, a:focus {
     text-decoration: none;
 }
 
+/* Body styles */
 body {
     background-color: whitesmoke;
+}
+
+/* Header styles */
+.header {
+
+}
+.header-content {
+
+}
+.header-img{
+    
+}
+
+.section-contact-summary {
+
+}
+.contact-info {
+
+}
+.div-summary {
+
 }
 
 
