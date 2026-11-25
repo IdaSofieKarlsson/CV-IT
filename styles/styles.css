@@ -159,6 +159,17 @@ body {
 .div-skills {
     
 }
+.div-skills span {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #4F6F80;
+    background-color: #D3DEE4;
+    border-radius: 5px;
+}
 
 /*Main section for work experience*/
 .section-work-experience {

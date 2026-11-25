@@ -1,0 +1,38 @@
+div {
+    width: 500px;
+    height: 100px;
+    
+    margin-top: 25px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.Cream-paper {
+    background-color: #F5EFE6;
+}
+
+.Warm-linen {
+    background-color: #EADFD0;
+}
+
+.Deep-bottle-green {
+    background-color: #2F4A3A;
+}
+
+.Terracotta-rose {
+    background-color: #B5654A;
+}
+
+.Mustard-gold {
+    background-color: #C9A227;
+}
+
+.Espresso-brown {
+    background-color: #2B211C;
+}
+
+.Taupe {
+    background-color: #7A6A5D;
+}
